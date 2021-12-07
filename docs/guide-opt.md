@@ -5,17 +5,17 @@
 [<<返回首页](index.md)
 
 
-- 经典的优化算法：
-  
-  - [背景](./Classical-Methods/背景-AI中的最优化.md)
-  - [无约束优化基础](./Classical-Methods/无约束优化基础.md)
-  - [最速下降法](./Classical-Methods/1.最速下降法.md)
-  - [牛顿法](./Classical-Methods/2.牛顿法.md)
-  - [共轭梯度法](./Classical-Methods/3.共轭梯度法.md)
-  - [拟牛顿法](./Classical-Methods/4.拟牛顿法.md)
-  - [对偶理论](./Classical-Methods/5.对偶.md)
-  - [约束优化理论](./Classical-Methods/约束优化基础.md)
-  
+
+经典的优化算法：
+
+- [背景](./Classical-Methods/背景-AI中的最优化.md)
+- [无约束优化基础](./Classical-Methods/无约束优化基础.md)
+- [最速下降法](./Classical-Methods/1.最速下降法.md)
+- [牛顿法](./Classical-Methods/2.牛顿法.md)
+- [共轭梯度法](./Classical-Methods/3.共轭梯度法.md)
+- [拟牛顿法](./Classical-Methods/4.拟牛顿法.md)
+- [对偶理论](./Classical-Methods/5.对偶.md)
+- [约束优化理论](./Classical-Methods/约束优化基础.md)
 
 课程内容计划分成几个阶段：
 
